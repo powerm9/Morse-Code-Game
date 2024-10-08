@@ -16,6 +16,9 @@ This application is a simple game that initializes necessary components, sets up
 - **User Input**: Players must enter sequences or words correctly to progress through the use of a Raspberry Pico Pi. These button presses are registered with ARM Assembly.
 - **Winning and Losing Conditions**: The game ends when the player wins at level 5 or loses all lives.
 
+## Video
+- https://youtu.be/eNa1rwmh7M8
+
 ## Authors
 
 - Matthew Power
